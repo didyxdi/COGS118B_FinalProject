@@ -1,0 +1,49 @@
+,label,name
+0,0,"school enrollment!!population 3 years and over enrolled in school!!nursery school, preschool"
+1,1,school enrollment!!population 3 years and over enrolled in school!!kindergarten
+2,2,school enrollment!!population 3 years and over enrolled in school!!elementary school (grades 1-8)
+3,3,school enrollment!!population 3 years and over enrolled in school!!high school (grades 9-12)
+4,4,school enrollment!!population 3 years and over enrolled in school!!college or graduate school
+5,5,educational attainment!!population 25 years and over!!less than 9th grade
+6,6,"educational attainment!!population 25 years and over!!9th to 12th grade, no diploma"
+7,7,educational attainment!!population 25 years and over!!high school graduate (includes equivalency)
+8,8,"educational attainment!!population 25 years and over!!some college, no degree"
+9,9,educational attainment!!population 25 years and over!!associate's degree
+10,10,educational attainment!!population 25 years and over!!bachelor's degree
+11,11,educational attainment!!population 25 years and over!!graduate or professional degree
+12,12,veteran status!!civilian population 18 years and over!!civilian veterans
+13,13,disability status of the civilian noninstitutionalized population!!total civilian noninstitutionalized population!!with a disability
+14,14,disability status of the civilian noninstitutionalized population!!under 18 years!!with a disability
+15,15,disability status of the civilian noninstitutionalized population!!18 to 64 years!!with a disability
+16,16,disability status of the civilian noninstitutionalized population!!65 years and over!!with a disability
+17,17,residence 1 year ago!!population 1 year and over!!same house
+18,18,residence 1 year ago!!population 1 year and over!!different house in the u.s.
+19,19,residence 1 year ago!!population 1 year and over!!different house in the u.s.!!same county
+20,20,residence 1 year ago!!population 1 year and over!!different house in the u.s.!!different county
+21,21,residence 1 year ago!!population 1 year and over!!different house in the u.s.!!different county!!same state
+22,22,residence 1 year ago!!population 1 year and over!!different house in the u.s.!!different county!!different state
+23,23,residence 1 year ago!!population 1 year and over!!abroad
+24,24,place of birth!!total population!!native
+25,25,place of birth!!total population!!native!!born in united states
+26,26,place of birth!!total population!!native!!born in united states!!state of residence
+27,27,place of birth!!total population!!native!!born in united states!!different state
+28,28,"place of birth!!total population!!native!!born in puerto rico, u.s. island areas, or born abroad to american parent(s)"
+29,29,place of birth!!total population!!foreign born
+30,30,u.s. citizenship status!!foreign-born population!!naturalized u.s. citizen
+31,31,u.s. citizenship status!!foreign-born population!!not a u.s. citizen
+32,32,computers and internet use!!total households!!with a computer
+33,33,computers and internet use!!total households!!with a broadband internet subscription
+34,34,relationship!!population in households!!householder
+35,35,relationship!!population in households!!spouse
+36,36,relationship!!population in households!!child
+37,37,relationship!!population in households!!other relatives
+38,38,marital status!!males 15 years and over!!never married
+39,39,"marital status!!males 15 years and over!!now married, except separated"
+40,40,marital status!!males 15 years and over!!separated
+41,41,marital status!!males 15 years and over!!widowed
+42,42,marital status!!males 15 years and over!!divorced
+43,43,marital status!!females 15 years and over!!never married
+44,44,"marital status!!females 15 years and over!!now married, except separated"
+45,45,marital status!!females 15 years and over!!separated
+46,46,marital status!!females 15 years and over!!widowed
+47,47,marital status!!females 15 years and over!!divorced
